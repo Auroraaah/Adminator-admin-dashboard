@@ -3,8 +3,6 @@ The manual for the full function could be accessed [here](google.com).
 
 # Preview
 
-### Demo Site: [Here](https://colorlib.com/polygon/adminator/index.html)
-
 ## TOC
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
