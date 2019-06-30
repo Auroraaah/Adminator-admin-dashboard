@@ -8,6 +8,7 @@
     "dev": "webpack-dashboard -t 'Project' -- webpack-dev-server",
     "clean": "shx rm -rf ./build",
     "build": "npm run clean && cross-env NODE_ENV=\"production\" webpack",
+    "heroku-postbuild": "next build",
     "preview": "cross-env NODE_ENV=\"production\" webpack-dev-server",
     "lint:js": "eslint ./src ./webpack ./*.js -f table --ext .js --ext .jsx",
     "lint:scss": "stylelint ./src/**/*.scss --syntax scss",
