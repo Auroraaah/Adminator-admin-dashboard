@@ -10,7 +10,6 @@ const titles = {
   'email': 'Email',
   'forms-deals': 'Deal Detail',
   'customer-page': 'Customer Profile',
-  'vector-maps': 'Vector Maps',
   'report': 'Report',
   'datatable-customer': 'Customer Database',
   'datatable-deals': 'Deal Database',
