@@ -1,11 +1,7 @@
-# Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
+# Intergrated CashOut System (ICS)
+The manual for the full function could be accessed [here](google.com).
 
 # Preview
-
-### Screenshot
-
-![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
 
 ### Demo Site: [Here](https://colorlib.com/polygon/adminator/index.html)
 
@@ -22,7 +18,7 @@
 
 
 ## Getting Started
-In order to run **Adminator** on your local machine all what you need to do is to have the prerequisites stated below installed on your machine and follow the installation steps down below.
+In order to run **ICS** on your local machine all what you need to do is to have the prerequisites stated below installed on your machine and follow the installation steps down below.
 
 #### Prerequisites
   - Node.js
@@ -31,7 +27,7 @@ In order to run **Adminator** on your local machine all what you need to do is t
   - libpng-dev *linux only*
 
 #### Installing & Local Development
-Start by typing the following commands in your terminal in order to get **Adminator** full package on your machine and starting a local development server with live reload feature.
+Start by typing the following commands in your terminal in order to get **ICS** full package on your machine and starting a local development server with live reload feature.
 
 ```
 > git clone https://github.com/puikinsh/Adminator-admin-dashboard.git adminator
@@ -151,16 +147,7 @@ Used to create a local dev server in order to preview the final output of build 
 Initial Release
 
 ## Authors
-[Colorlib](https://colorlib.com)
-
-## More info
-- [Bootstrap Dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
-- [Bootstrap Templates](https://colorlib.com/wp/free-bootstrap-templates/)
-- [HTML Templates](https://colorlib.com/wp/free-html-website-templates/)
-- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
-- [Website Templates](https://colorlib.com/wp/templates/)
-- [Free CSS Templates](https://colorlib.com/wp/free-css-website-templates/)
-- [WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
+[Colorlib](https://colorlib.com), modified by Huang Liang (for UBS Case Competition 2019).
 
 ## License
 
